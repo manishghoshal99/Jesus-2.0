@@ -1,6 +1,22 @@
+<br>
+<img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
+<br>
+
+> Problem Statement:
+- Predict the percentage of an student based on the no. of study hours. <br>
+- This is a simple linear regression task as it involves just 2 variables.<br>
+- You can use R, Python, SAS Enterprise Miner or any other tool.<br>
+- What will be predicted score if a student studies for 9.25 hrs/ day? <br>
+- Here is the dataset :
+<a href="http://bit.ly/w-data">Dataset.csv</a><br><br>
+> Solution:
+<a href="https://github.com/manishghoshal99/Prediction-Using-Supervised-ML/blob/main/Prediction-Using-Supervised-ML.ipynb"> Prediction using Supervised ML</a>
+
+>Demo:
+<a href="...">Prediction using Supervised ML - To Be Added!</a>
 <br><br>
 <p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+  <b><i>Let's connect! Find me on the web xD</i></b>
 
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
