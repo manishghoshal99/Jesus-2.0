@@ -12,8 +12,9 @@
 > Solution:
 <a href="https://github.com/manishghoshal99/Prediction-Using-Supervised-ML/blob/main/Prediction-Using-Supervised-ML.ipynb"> Prediction using Supervised ML</a>
 
->Demo:
+> Demo:
 <a href="...">Prediction using Supervised ML - To Be Added!</a>
+
 <br><br>
 <p align="center">
   <b><i>Let's connect! Find me on the web xD</i></b>
