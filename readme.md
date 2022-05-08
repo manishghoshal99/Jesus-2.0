@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Aindrail Santra</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm Manish Ghoshal</h1>
 
 <h3 align="center">A passionate developer from India</h3>
 <p align="right"><img src= "https://github.com/manishghoshal99/blob/main/Work-Fun.gif"align="right" width=50%>
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aindrail" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aindrail" height="30" width="40" /></a>
+<a href="https://codepen.io/aindrail" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manish" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aindrail-santra-a717871b9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aindrail-santra-" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aindrail" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aindrail" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aindrail" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aindrail" height="30" width="40" /></a>
